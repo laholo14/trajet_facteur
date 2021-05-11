@@ -1,6 +1,5 @@
-from model.Point import *
 from controller.ControlPoint import *
-import itertools
+
 
 N = 0
 while N <= 0 or N > 500:
